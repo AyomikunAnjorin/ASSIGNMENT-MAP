@@ -1,0 +1,23 @@
+#NG-AB, #NG-RI, #NG-EK { 
+fill:red; 
+}
+#NG-PL, #NG-ZA, NG-LA {
+fill:yellow;
+}
+#NG-SO, #NG-AK, #NG-AB {
+fill:orange;
+}
+#NG-BE, #NG-ED, #NG-EN {
+    fill:green;
+}
+#NG-JI, #NG-EB, #NG-FC {
+    fill:blue;
+}
+#NG-DE, #NG-KD, #NG-KW {
+    fill:pink;
+}#NG-OY, #NG-TA, #NG-BA {
+     fill:purple
+ }
+ #NG-BO, #NG-NI {
+     fill:brown;
+ }
